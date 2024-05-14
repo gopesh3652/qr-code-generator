@@ -65,7 +65,7 @@ body {
     padding: 10px;
 }
 
-#img-box .show-img {
+#img-box.show-img {
     max-height: 300px;
     margin: 10px auto;
     border: 1px solid #d1d1d1;
